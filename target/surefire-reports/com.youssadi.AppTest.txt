@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.youssadi.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.018 sec <<< FAILURE!
+testAdd(com.youssadi.CalculTest)  Time elapsed: 0.012 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.youssadi.CalculTest.testAdd(CalculTest.java:13)
+
