@@ -10,7 +10,7 @@ public class CalculTest extends TestCase {
 	}
 	
 	public void testAdd(){
-		assertTrue(3==cl.add(4, 1));
+		assertTrue(3==cl.add(2, 1));
 	}
 
 	protected void tearDown() throws Exception {
